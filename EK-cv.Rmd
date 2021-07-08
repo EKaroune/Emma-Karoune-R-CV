@@ -1,0 +1,147 @@
+---
+title: "Emma Karoune CV"
+author: "Emma Karoune"
+date: "06/07/2021"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+    highlight: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Dr Emma Karoune's (nee Harvey)
+
+### ORCID: 0000-0002-6576-6053
+
+### Nationality – British 	
+
+### Teacher reference number – 06/59932
+
+## Qualifications
+1.	**Further Education**
+* **PGCE in Secondary science at Kingston University, 09/06 – 05/07.**
+Specialism in Biology particularly ecology and plant biology.
+
+* **PhD at Institute of Archaeology, University College London, 09/02- 05/06.** 
+Thesis title – Early Agricultural communities in Northern and Eastern India. 
+Supported by an AHRC studentship grant.
+
+* **MSc in Palaeoecology of Human Societies at Institute of Archaeology, University College London, 09/01-09/02.** 
+Thesis title - Investigating Neolithic agriculture using phytolith analysis on two Asian sites (Yiluo River Valley, Henan Province, China and Mahagara, Uttar Pradesh, India).
+Distinction and winner of the W F Grimes prize for outstanding performance.
+Supported by an AHRC studentship grant.
+
+* **BSc in Bioarchaeology at University of Bradford, 09/97-06/01.**
+First class honours including an industrial placement year in which I gained a Diploma of Professional Archaeological studies. 
+
+2.	**Higher Education**
+
+* 3 A-levels at Bishop Luffa C.E. School, Chichester, West Sussex, 09/95-06/97.
+
+3.	**Secondary School Education**
+
+* 11 GCSE's at Bishop Luffa C.E. School, Chichester, West Sussex, 09/93-06/95.
+Information Technology Short Course Higher Level.
+
+## Work experience
+* **Research Associate and Community Manager for DECOVID project, The Alan Turing Institute** – 01/2021 to present. I am responsible for co-ordinating the different teams of data analysts and clinicians working on the project. I ensure communication is effective throughout the project by maintain the Github repositories, using different communication channels to pass on information and ensuring efficient workflow streams. I am also contributing to The Turing Way by writing new chapters concerning scientific communication such as how to write collaborative academic papers and how to deal with authorship on collaborative projects. 
+
+* **Independent researcher (in collaboration with Historic England)** – 09/2019- present (2 days – supported by several research grants). Open archaeobotanical research specialising in phytolith analysis. I am currently working on two projects: i) an open project concerning the application of phytolith analysis on British Archaeological sites including investigations into the methodologies used in phytolith analysis to build more robust and reproducible methods; ii) the development of open science practices in phytolith research. The later project has focused initially on assessing the extent of open science in this field and starting to build an open research community (see my project page: https://osf.io/qp68n/). Moving forward, I am collaborating, with my newly formed working group, to expand and consolidate this community, and we have applied for a European Open Science Cloud Digital Life Science Grant to fund a FAIRification project, in which I will be the Principal Investigator. 
+
+* **SEN Science Teacher, The Harbour Medical School**, 02/2018 to 12/2020 (2 days).
+Planning and teaching science lessons for pupils aged 11 to 16 with special educational needs - currently online teaching. This involves co-ordinating parents, teaching staff and other stakeholders to make significant progress with my pupils with complex emotional, mental and health conditions. 
+
+* **Teaching and Learning Lead, Madani Academy Primary School**, 09/2016 - 08/2019 (3 days). 
+In charge of transforming teaching and learning across the school to move from an Ofsted of requiring improvement to now being good with outstanding. Also responsible for monitoring and assessing teaching, assessment analysis, attendance analysis, planning and monitoring the curriculum. I also played a key role in community building, as this was a new school when I joined, and therefore I spearheaded the growth of extracurricular connections with local organisations such as Portsmouth Football Club, Portsmouth University, Portsmouth Council, local museums and local schools. I also organised STEM projects and science week activities to extend the science curriculum.
+
+* **Science Tutor, Oxford Open Learning**. 09/2015 – 06/2018, Part-time.
+Distance learning tutoring of adult learners in IGCSE Biology and A-Level Biology. 
+
+* **Science Teacher, Ashcroft Technology Academy**, Putney, 09/2014 – 08/2015 (3 days).
+Classroom teaching for KS3/4 science and A-level Biology. 
+
+* **Supply Teacher, ANZUK teaching agency**, 03/2014 – 07/2014 (2 days).
+Classroom teacher on daily supply. 
+
+* **School outreach co-ordinator, Eden Protocol Project, University College London**, 07/2013 – 07/2014 Part time. 
+Developing teaching resources and workshops for London Schools. Organising a conference and giving a conference lecture.
+
+* **Expert Examiner, A-level Biology, Edexcel/Pearson**, 07/2007 to present. 
+Examining and moderating AS coursework and AS/A-level examinations (experience of all units).
+
+* **Science Teacher and Head of KS5 science, City of London Academy (Bermondsey)**, 07/2007 – 07/2010. 
+Full-time teaching Science at KS3, KS4, A-level Biology and Health and Social Care. Overseeing planning, assessment and monitoring of KS5 Science courses, mentoring A-level Science students, and delivering a science study skills course. Organising residential fieldtrips for A-level Biology. Contributing to the long and short-term planning of new courses including designing lesson plans and new resources (worksheets and practicals). Developing and maintaining the online resources for the department and for students to access. Running afterschool clubs and being a form tutor.
+
+* **Research Assistant, Institute of Archaeology, University College London** – 05/2006-07/2006. 
+Sorting archaeobotanical samples and recording data.
+
+*	**Part-time Lecturer, Institute of Archaeology (UCL), Kings College London and Birkbeck College** – 2003 to 2006. Lecturing and teaching practical skills in archaeobotany and prehistoric archaeology.
+
+*	**Widening Participation Scheme, University College London** – 2001 - 2003. 
+Giving talks to secondary school students and tours of the University.
+
+* **Secretary, Medical Defence Union, London** – 07/01 - 12/2001.  General office work.
+
+* **Various temping agency work during university summer holidays, including secretarial and administrative work** – 1997 - 2001.
+
+## Grants and studentships awarded
+* AHRC MSc studentship – to support MSc study at UCL – 2001-2002.
+* AHRC PhD Studentship – to support PhD at UCL – 2002 – 2006.
+* UCL Graduate Research Fund – to support fieldwork – 2003-2006.
+* Institute of Archaeology Fieldwork Awards – 2003-2006.
+* Association of Environmental Archaeology Research Grant – to initiate work on phytolith reference collection - 2019.
+* Botanical Society for Britain and Ireland Research Grant – to fund fieldwork to establish reference collection – 2020.
+
+## Associations with positions
+* Ordinary Committee Member – Association of Environmental Archaeology.
+* Lead for International Committee of Open Phytolith Science. – International Phytolith Society.
+* Part of Science Communication Project (Copy Editor) – Palaeoecology Special Interest Group – British Ecological Society.
+
+## Training courses
+* Open Life Science Cohort 2 – September to December 2020 – ‘Creating community awareness of open science practices in phytolith research’ – see here for the project page.
+* PalaeoSIG Pollen modelling workshop – June 2020.
+* PalaeoSIG scientific writing and communication workshop – attended online 13th -15th May 2020.
+
+## Blog
+* [The Open Archaeobotanist](https://ekaroune.github.io/The-Open-Archaeobotanist/)
+
+## List of publications – listed from oldest to most recent
+* **Harvey, E. L.** and D. Q. Fuller, 2005. Investigating crop processing using phytolith analysis: the example of rice and millets. *Journal of Archaeological Science* 32, pp. 739-752. DOI: https://doi.org/10.1016/j.jas.2004.12.010
+* **Harvey, E.**, D. Q. Fuller, J. N. Pal and M. C. Gupta, 2005. Early agriculture of Neolithic Vindyhas (North-Central India), in Franke-Vogt, U. and Weisshaar, J., *South Asian Archaeology 2003*. Proceedings of the European Association for South Asian Archaeology Conference, Bonn, Germany, 7th - 11th July 2003. Aachen: Linden Soft, 329-334.
+* Fuller, D. Q. and **E. L. Harvey**, 2006. The Archaeobotany of Indian Pulses: identification, processing and evidence for cultivation. *Environmental Archaeology* 11(2), 219-246. DOI: https://doi.org/10.1179/174963106x123232
+* **Harvey, E. L.**, D. Q Fuller, R. K. Mohanty and B. Mohanta, 2006. Early Agriculture in Orissa: Some Archaeobotanical Results and Field Observations on the Neolithic. *Man and Environment* 31(2), 21-32.
+* Qin, L., D. Q. Fuller and **E. Harvey**, 2006. Subsistence of Hemudu Site, and reconsideration of issues in the study of early rice from Lower Yangzte. Dongfang Kaogu *[Oriental Archaeology]* 3, 307-350 [in Chinese].
+* Fuller, D.Q., **E. Harvey** and L. Qin, 2007. Presumed domestication? Evidence for wild rice cultivation and domestication in the fifth millennium BC of the Lower Yangzte region. *Antiquity* 81(312), 316-331. DOI: https://doi.org/10.1017/S0003598X0009520X
+* Fuller, D.Q., L. Qin and **E. Harvey**, 2008. Rice archaeobotany revisited: Comments on Liu et al (2007) *Antiquity* 82 (315).
+* Fuller, D.Q., L. Qin and **E. Harvey**, 2008. Evidence for a late onset of agriculture in the Lower Yangzi region and challenges for an archaeobotany of rice. In Sanchez-Mazas,A., Blench,R. Ross,M.D., Peiros,I., Lin,M. (eds.) *Past Human Migrations in East Asia. Matching Archaeology, Linguistics and Genetics*. London: Routledge, 40-83 ISBN 978-0-415-39923-4.
+* Fuller, D.Q, L. Qin, and **E. Harvey**, 2008. A critical assessment of Early Agriculture in East Asia, with emphasis on Lower Yangtze rice domestication. *Pragdhara* (Journal of the Uttar Pradesh State Archaeology Department) 18, 17-52.
+* Fuller, D.Q., L. Qin and **E. Harvey**, 2009. An evolutionary model for Chinese rice domestication: reassessing the data of the Lower Yangtze region. In *New Approaches to Prehistoric Agriculture*, edited by Sung Mo Ahn and June-Jeong Lee, 2009, Seoul Sahoi Pyoungnon, 312-345.
+* Weisskopf, A., **E. Harvey**, E. Kingwell-Banham, M. Kajale, R. Mohanty, and D.Q. Fuller, 2014. Archaeobotanical implications of phytolith assemblages from cultivated rice systems, wild rice stands and macro-regional patterns. *Journal of Archaeological Science* 51, 43-53. DOI: https://doi.org/10.1016/j.jas.2013.04.026
+* Kingwell-Banham, E., **E. Karoune (nee Harvey)**, R. K. Mohanty and D.Q. Fuller, 2018. Archaeobotanical investigations into Golbai Sasan and Gopalpur, Two Neolithic-Chalcolithic Settlements of Odisha. *Ancient Asia* 9/5, 1-14. DOI: http://doi.org/10.5334/aa.164
+* **Karoune, E**, 2020. Data from assessing open science practices in phytolith research. *Journal of Open Archaeology Data*, 8(1), p.6. DOI: http://doi.org/10.5334/joad.67
+* **Karoune, E**, 2020.  Getting started with Github, in *The Turing Way*. Contributors record link: https://the-turing-way.netlify.app/afterword/contributors-record.html#emma-karoune 
+
+## Forthcoming publications
+* **Karoune, E**, in review. Assessing open science practices in phytolith research, Open Quaternary. Find pre-print here: https://osf.io/fa7q3/ 
+* **Karoune, E**, forthcoming. Open Environmental Archaeology means Sustainable Environmental Archaeology. Invited article for special issue of the Journal ‘Environmental Archaeology’.
+* **Karoune, E** and S. Elliot, forthcoming. The Northwest European Void: untapped potential. An invited chapter in ‘Phytoliths in Archaeology’, to be published by Oxbow Books as part of their Studying Scientific Archaeology Series. 
+* ***Karoune, E** and D.Q. Fuller, forthcoming. To measure or not to measure. That is the question? Whether we should be using morphometrics to inform our identification of archaeological phytolith remains. 
+
+## List of conference talks/posters
+* 24/04/2021 - Association of Environmental Archaeology Spring Conference on Open Science - Presentation: 'Striving for Reproducibility in Environmental Archaeology'.
+* 31/03/2021 - Collaborations Workshop 2021, Software Sustainability Institute - Presentation: 'Designing The Turing Way's Guide for Project Design'.  
+* 03/03/2021 – Software Sustainability Institute, Research Software Camp, Zero to Binder Workshop – Presentation: ‘Introduction to The Turing Way’.
+* 14/12/2020 - Brainhack 2020 ignite talk – Presentation: ‘Reproducibility and collaborative working’.
+* 24/11/2020 - Palaeopercs early career webinar series – Presentation: ‘Open Science in Phytolith Research and Beyond’.
+* 21/11/2020 - Botanical Society of Britain and Ireland Annual Exhibition Meeting – Poster: ‘Phytolith reference collection of coastal plant communities at Farlington marshes, Portsmouth, Hampshire’.
+* 15/09/2020 - Association of Environmental Archaeology Autumn webinar series on Sustainability in Environmental Archaeology – Presentation: ‘Open Environmental Archaeology means Sustainable Environmental Archaeology’.
+* 15 and 16/02/2020 - Integrated Microscopy Approaches in Archaeobotany Workshop – Poster: E Karoune & D.Q. Fuller. A case for reproducible science in phytolith morphometrics: an independent study of double-peaked glume cells of rice. DOI: 10.13140/RG.2.2.12234.31686
+* 21/02/2014, Eden Protocol Conference. Presentation: School dinners: introducing an evolutionary perspective to inner-city schools.
+* 07/2005, European Association of South Asian Archaeology Conference, Presentation: E. Harvey, Exploring new frontiers: archaeobotanical investigation of prehistoric sites in Orissa.
+* 10/2004, 5th Meeting for phytolith research, Moscow, International Phytolith Society. Presentation: E. Harvey, D. Fuller, E. Mohanty and K. Basa. Investigating early agricultural systems in Northern and Eastern India using phytoliths and macro-botanical remains. 
+* 07/2003, European Association of South Asian Archaeology Conference, Poster: E. Harvey, Fuller, D. Q, Pal, J. N. and Gupta, M. C. Early agriculture of Neolithic Vindyhas (North-Central India). 
